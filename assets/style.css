@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(129, 145, 119);
+}
+.nav {
+    border: 5px solid black; /* Agrega un borde sólido de 2px de ancho de color negro */
+    padding: 3px; /* Agrega un relleno de 10px alrededor de la lista de navegación */
+}
+.nav-link {
+    color: white !important; /* Cambia el color del texto a blanco */
+}
+.titulo {
+    text-align: center; 
+}
+p{
+    text-align: center;
+}
+p2{
+    color: crimson;
+    text-align: center;
+}
+.bordered {
+    border: 4px solid #29362d; 
+    padding: 10px; 
+    margin: 10px; 
+  }
+  .card {
+    border: 3px solid #4c7c6a; /* Borde de 2px de ancho y color gris */
+    border-radius: 15px; /* Bordes redondeados */
+    background-color: #8bac8e; /* Color de fondo */
+    margin-bottom: 25px; /* Margen inferior de 20px */
+}
+  
